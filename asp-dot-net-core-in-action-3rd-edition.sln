@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlerMiddleware"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperExceptionPage", "Chapter04_Middleware\E_DeveloperExceptionPage\DeveloperExceptionPage\DeveloperExceptionPage.csproj", "{B93B25B7-7606-4B4A-90D1-3BBD82131CAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicRoutingMinimalApi", "Chapter05_Minimal_APIs\B_BasicRoutingMinimalApi\BasicRoutingMinimalApi\BasicRoutingMinimalApi.csproj", "{827568A9-5418-4191-8013-F1D32D50F814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleVerbMinimalApi", "Chapter05_Minimal_APIs\C_MultipleVerbMinimalApi\MultipleVerbMinimalApi\MultipleVerbMinimalApi.csproj", "{7569E041-D366-4246-AC85-18DA2966E213}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +58,13 @@ Global
 		{B93B25B7-7606-4B4A-90D1-3BBD82131CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B93B25B7-7606-4B4A-90D1-3BBD82131CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B93B25B7-7606-4B4A-90D1-3BBD82131CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827568A9-5418-4191-8013-F1D32D50F814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827568A9-5418-4191-8013-F1D32D50F814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827568A9-5418-4191-8013-F1D32D50F814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827568A9-5418-4191-8013-F1D32D50F814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7569E041-D366-4246-AC85-18DA2966E213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7569E041-D366-4246-AC85-18DA2966E213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7569E041-D366-4246-AC85-18DA2966E213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7569E041-D366-4246-AC85-18DA2966E213}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
